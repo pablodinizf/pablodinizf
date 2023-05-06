@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi 👋, I'm Pablo Diniz
+I am Junior Developer Front-end looking for opportunities and collabaration in projects related to web development.
+- 🌱 I’m currently learning about ReactJS.
+- 💬 Ask me about **JavaScript, HTML, CSS**
 
-<!--
-**pablodinizf/pablodinizf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<strong>Contato:</strong>
+</p>
+
+<a href="https://www.linkedin.com/in/pablodinizf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/pablodinizf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
