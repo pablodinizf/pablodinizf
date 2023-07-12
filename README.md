@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Pablo Diniz
-I am Junior Developer Front-end looking for opportunities and collabaration in projects related to web development.
-- 🌱 I’m currently learning about ReactJS.
+I am Junior Developer Back-end looking for opportunities and collabaration in projects related to web development.
+- 🌱 I’m currently learning about API REST e Banco de Dados SQL.
 - 💬 Ask me about **JavaScript, HTML, CSS**
 
 
